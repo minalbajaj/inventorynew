@@ -8,6 +8,7 @@
 		<property name="hibernate.connection.url">jdbc:mysql://localhost/ventura_enterpride</property>
 		<property name="hibernate.connection.username">root</property>
 
+
 		<property name="hibernate.connection.password">root</property>
 
 		<property name="hibernate.connection.pool_size">10</property>
@@ -28,6 +29,7 @@
          <mapping class="com.erp.pojo.Item"/>
             <mapping class="com.erp.pojo.Vendor"/>
         <mapping class="com.erp.pojo.Customer"/>
+
          <mapping class="com.erp.pojo.Grn"/>
          <mapping class="com.erp.pojo.GrnDetail"/>
           <mapping class="com.erp.pojo.StoreIssue"/>

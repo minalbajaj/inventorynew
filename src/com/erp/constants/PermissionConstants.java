@@ -22,6 +22,7 @@ public class PermissionConstants {
     public static final String DELETE_VENDOR="DELETE_Vendor";
     public static final String VENDOR_HISTORY="ADD_VENDORHISTORY";
 
+
     public static final String ADD_CUSTOMER="ADD_Customer";
     public static final String UPDATE_CUSTOMER="UPDATE_Customer";
     public static final String DELETE_CUSTOMER="DELETE_Customer";

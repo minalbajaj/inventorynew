@@ -125,7 +125,9 @@ return false;
     </span>	<div><input type="checkbox" name="chk_delete" id="chk_delete" value="chkDel"   onclick="jqCheckAll2('chk_Delete');"></div></div></td>
 
     </tr>
-<c:forEach items="<%= com.erp.enums.EnumModule.values() %>" var="moduleloop" varStatus="loop" >
+
+<c:forEach items="<%= EnumModule.values() %>" var="moduleloop" varStatus="loop" >
+
 <tr id="tabletr">
    <td class="foreach_table_firstth">
     <div class="foreach_table_div">

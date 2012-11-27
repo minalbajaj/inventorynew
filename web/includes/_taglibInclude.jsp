@@ -29,6 +29,9 @@
  <script type="text/javascript" src="js/jquery-ui.js"></script>
 <link type="text/css" rel="stylesheet" href="css/jquery-ui.css"/>
 
+<link type="text/css" rel="stylesheet" href="css/jquery-ui.css" />
+
+
   <%--this is for star rating--%>
    
    <script type="text/javascript" src="js/jquery.raty.min.js"></script>  
